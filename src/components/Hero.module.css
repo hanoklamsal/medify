@@ -1,0 +1,21 @@
+.heroImg{
+    width: 40vw;
+    height: 50vh;
+    margin-right: 50px;
+}
+
+.heroContainer{
+    display: flex;
+    padding: 1.5rem;
+    margin: auto;
+    background: linear-gradient(to right, #E7F0FF, #E8F1FF );
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 88px;
+}
+
+.heroContainerBox{
+
+    width: 30%;
+
+}
